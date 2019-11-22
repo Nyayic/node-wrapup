@@ -19,6 +19,11 @@
   "homepage": "https://github.com/Nyayic/node-wrapup#readme",
   "dependencies": {
     "express": "^4.17.1",
+    "mongoose": "^5.7.12",
     "nodemon": "^1.19.4"
+  },
+  "devDependencies": {
+    "body-parser": "^1.19.0",
+    "pug": "^2.0.4"
   }
 }
